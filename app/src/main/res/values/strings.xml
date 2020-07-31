@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="api_url"><![CDATA[https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple]]></string>
+    <string name="basic_quiz">Basic Quiz</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="start">Start</string>
+    <string name="correct_answer_is">Correct Answer is:</string>
+    <string name="submit">Submit</string>
+</resources>
